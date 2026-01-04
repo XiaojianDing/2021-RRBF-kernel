@@ -7,7 +7,12 @@ This code is ONLY released for academic use. Please do not further distribute th
 
 See demo_iono.m for more details.
 
+## Citation
 In case the repository or the publication was helpful in your work, please use the following to cite the original paper,
+
+
+
+```bash
 @article{ding2021random,
   title={Random radial basis function kernel-based support vector machine},
   author={Ding, Xiaojian and Liu, Jian and Yang, Fan and Cao, Jie},
@@ -18,3 +23,8 @@ In case the repository or the publication was helpful in your work, please use t
   year={2021},
   publisher={Elsevier}
 }
+```
+
+
+
+
